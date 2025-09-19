@@ -18,9 +18,9 @@ This app lets you create, view, edit, delete, and manage tasks with features lik
 
 🔗 Live Demo
 
-Click Here : task-management-blue-mu.vercel.app
+ task-management-blue-mu.vercel.app
 
-## 📂 Project Structure
+
 ## 📂 Project Structure
 src/
 │── App.jsx
